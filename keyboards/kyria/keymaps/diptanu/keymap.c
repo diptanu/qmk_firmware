@@ -15,8 +15,6 @@
  */
 #include QMK_KEYBOARD_H
 
-#define ENCODER_RESOLUTION 2
-
 enum layers {
     _QWERTY = 0,
     _LOWER,
